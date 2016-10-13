@@ -1,0 +1,51 @@
+#container{
+  width:700px; hight:700px;
+  margin: auto;  
+  position: absolute;
+  margin:auto;
+  top: 50px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.caption_Font{
+  color:#F00;
+  font-family:Lobster;
+  font-size: 100%;
+}
+h2{
+  font-family: Libre Baskerville;
+}
+h6{
+  text-align: right;
+  color:blue;
+}
+h5{
+  font-weight: bold;
+  color: red;
+  font-style: merriweather;
+}
+.fontBold{
+  font-weight: bold;
+}
+.small_image_Size{
+  width: 50px;
+}
+.larg_Image_Size{
+  width:250px;
+}
+body{
+   background-image: url("https://s-media-cache-ak0.pinimg.com/736x/57/d8/da/57d8da8e701d0e806058284887a69ed7.jpg");
+   background-position: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  
+}
+.resize_Button{
+  padding: 1px 1px 1px 1px;
+}
+.span_Font{
+  color:#000099;
+  font-weight: bold;
+}
